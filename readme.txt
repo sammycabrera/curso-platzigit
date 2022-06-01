@@ -1,29 +1,77 @@
-commit 5ca5522f2121b421ec1c71820df2c24f3f489f2a
-Author: Samir Cabrera Moreno <sammy_cabrera@hotmail.com>
-Date:   Thu May 26 22:04:06 2022 -0500
-
-    Se adiciona comentario nuevo
-
-commit 73a2c801cce53ba361c86d62c4e55d49ba231936
-Author: Samir Cabrera Moreno <sammy_cabrera@hotmail.com>
-Date:   Thu May 26 22:02:18 2022 -0500
-
-    Se adiciona comentario
-
-commit 27b12ec50430e468e289f71f9647a56f5b8761fb
-Author: Samir Cabrera Moreno <sammy_cabrera@hotmail.com>
-Date:   Thu May 26 21:57:38 2022 -0500
-
-    Cambios de edad
-
-commit 46f6e59be43c169731bd1e13132403da459feddc
-Author: Samir Cabrera Moreno <sammy_cabrera@hotmail.com>
-Date:   Thu May 26 21:54:49 2022 -0500
-
-    Cambio simple
-
-commit 9ef16334344218ed7caef1a3088e48a83d842c5e
-Author: Samir Cabrera Moreno <sammy_cabrera@hotmail.com>
-Date:   Wed May 25 22:46:30 2022 -0500
-
-    agregado archivo
+USERDOMAIN_ROAMINGPROFILE=SCABRERA-LENOVO
+HOMEPATH=\Users\Sammy
+MANPATH=/mingw64/share/man:/usr/local/man:/usr/share/man:/usr/man:/share/man:
+APPDATA=C:\Users\Sammy\AppData\Roaming
+ProgramW6432=C:\Program Files
+HOSTNAME=SCABRERA-LENOVO
+OneDrive=C:\Users\Sammy\OneDrive
+SHELL=/usr/bin/bash
+TERM=xterm
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+WINDIR=C:\WINDOWS
+COMPOSE_CONVERT_WINDOWS_PATHS=true
+TMPDIR=/tmp
+DOCKER_HOST=tcp://192.168.99.100:2376
+PUBLIC=C:\Users\Public
+USERDOMAIN=SCABRERA-LENOVO
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OS=Windows_NT
+ALLUSERSPROFILE=C:\ProgramData
+NO_PROXY=192.168.99.100
+!::=::\
+TEMP=/tmp
+COMMONPROGRAMFILES=C:\Program Files\Common Files
+DOCKER_MACHINE_NAME=default
+configsetroot=C:\WINDOWS\ConfigSetRoot
+USERNAME=Sammy
+DOCKER_TLS_VERIFY=1
+PROCESSOR_LEVEL=6
+ProgramFiles(x86)=C:\Program Files (x86)
+ChocolateyInstall=C:\ProgramData\chocolatey
+PATH=/c/Users/Sammy/bin:/mingw64/bin:/usr/local/bin:/usr/bin:/bin:/mingw64/bin:/usr/bin:/c/Users/Sammy/bin:/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/c/ProgramData/Oracle/Java/javapath:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0:/c/Program Files (x86)/Common Files/lenovo/easyplussdk/bin:/c/Program Files (x86)/ATI Technologies/ATI.ACE/Core-Static:/c/Program Files/Microsoft SQL Server/110/DTS/Binn:/c/Program Files (x86)/Microsoft SQL Server/110/Tools/Binn:/c/Program Files/Microsoft SQL Server/110/Tools/Binn:/c/Program Files (x86)/Microsoft SQL Server/110/Tools/Binn/ManagementStudio:/c/Program Files (x86)/Microsoft Visual Studio 10.0/Common7/IDE/PrivateAssemblies:/c/Program Files (x86)/Microsoft SQL Server/110/DTS/Binn:/c/Program Files (x86)/CloudFoundry:/c/Program Files/Microsoft SQL Server/120/Tools/Binn:/c/Program Files/Microsoft SQL Server/130/Tools/Binn:/c/Python27:/c/Python27/Scripts:/c/Program Files/Intel/WiFi/bin:/c/Program Files/Common Files/Intel/WirelessCommon:/c/ProgramData/chocolatey/bin:/c/WINDOWS/System32/OpenSSH:/c/Program Files/IBM/Cloud/bin:/cmd:/c/Program Files/nodejs:/c/Users/Sammy/AppData/Local/Programs/Python/Python38-32/Scripts:/c/Users/Sammy/AppData/Local/Programs/Python/Python38-32:/c/Ruby22-x64/bin:/c/touch-2.4.2:/c/Users/Sammy/AppData/Local/Microsoft/WindowsApps:/c/Users/Sammy/AppData/Local/atom/bin:/c/apache-maven-3.3.9/bin:/c/Program Files/Java/jdk1.8.0_77/bin:/c/Users/Sammy/AppData/Local/Programs/Microsoft VS Code/bin:/c/Program Files/heroku/bin:/c/Users/Sammy/AppData/Roaming/npm:/usr/bin/vendor_perl:/usr/bin/core_perl
+EXEPATH=C:\Program Files\Git
+PSModulePath=C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\PowerShell\Modules\
+OneDriveConsumer=C:\Users\Sammy\OneDrive
+ESET_OPTIONS=                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+PWD=/f/platzi/curso-platzi
+SYSTEMDRIVE=C:
+JAVA_HOME=C:\Program Files\Java\jdk1.8.0_77
+LANG=es_ES.UTF-8
+VS120COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\
+USERPROFILE=C:\Users\Sammy
+easyplussdk="C:\Program Files (x86)\Common Files\lenovo\easyplussdk\bin"
+PS1=\[\033]0;$TITLEPREFIX:${PWD//[^[:ascii:]]/?}\007\]\n\[\033[32m\]\u@\h \[\033[35m\]$MSYSTEM \[\033[33m\]\w\[\033[36m\]`__git_ps1`\[\033[0m\]\n$ 
+LOGONSERVER=\\SCABRERA-LENOVO
+CommonProgramW6432=C:\Program Files\Common Files
+PROCESSOR_ARCHITECTURE=AMD64
+LOCALAPPDATA=C:\Users\Sammy\AppData\Local
+DriverData=C:\Windows\System32\Drivers\DriverData
+SSH_ASKPASS=/mingw64/libexec/git-core/git-gui--askpass
+ProgramData=C:\ProgramData
+SHLVL=1
+M2_HOME=C:\apache-maven-3.3.9
+HOME=/c/Users/Sammy
+DOCKER_CERT_PATH=C:\Users\Sammy\.docker\machine\machines\default
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PLINK_PROTOCOL=ssh
+HOMEDRIVE=C:
+MSYSTEM=MINGW64
+COMSPEC=C:\WINDOWS\system32\cmd.exe
+TMP=/tmp
+SYSTEMROOT=C:\WINDOWS
+PRINTER=\\192.168.1.10\HP LaserJet Professional M1212nf MFP
+PROCESSOR_REVISION=4e03
+ChocolateyLastPathUpdate=do. nov. 19 09:50:35 2017
+PKG_CONFIG_PATH=/mingw64/lib/pkgconfig:/mingw64/share/pkgconfig
+ACLOCAL_PATH=/mingw64/share/aclocal:/usr/share/aclocal
+INFOPATH=/usr/local/info:/usr/share/info:/usr/info:/share/info:
+PROGRAMFILES=C:\Program Files
+DISPLAY=needs-to-be-defined
+VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+VS110COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\
+NUMBER_OF_PROCESSORS=4
+SESSIONNAME=Console
+COMPUTERNAME=SCABRERA-LENOVO
+OLDPWD=/f/platzi
+_=/usr/bin/printenv
+Mi nombre es Samir

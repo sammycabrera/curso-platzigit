@@ -74,3 +74,4 @@ SESSIONNAME=Console
 COMPUTERNAME=SCABRERA-LENOVO
 OLDPWD=/f/platzi
 _=/usr/bin/printenv
+Mi nombre es Samir
